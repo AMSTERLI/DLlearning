@@ -38,8 +38,8 @@ Deep-Pneumonia-Detection/
 
 Bash
 
-git clone [https://github.com/your-username/Deep-Pneumonia-Detection.git](https://github.com/your-username/Deep-Pneumonia-Detection.git)
-cd Deep-Pneumonia-Detection
+git clone [https://github.com/AMSTERLI/DLlearning.git]
+
 安装依赖
 
 Bash

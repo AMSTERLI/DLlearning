@@ -1,0 +1,7 @@
+torch>=2.0.0
+torchvision>=0.15.0
+kagglehub>=0.4.1
+tqdm
+matplotlib
+numpy
+livelossplot
